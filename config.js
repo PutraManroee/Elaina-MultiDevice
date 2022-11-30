@@ -1,5 +1,5 @@
 // S C R I P T  O R I  B Y  KyGanteng 🔭
-// Ditulis Ulang Oleh ImYanXiao
+// Ditulis Ulang Oleh Manroe
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
@@ -38,9 +38,9 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Xiao_yan_21' //Link Instagrammu
+global.sig = 'https://instagram.com/manroekisaranlogo' //Link Instagrammu
 global.sgh = 'https://github.com/ImYanXiao' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/DyBMXDw1IshFM9z0ZHZNlR'
+global.sgc = '-'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
@@ -53,7 +53,7 @@ global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada 
 global.nomorbot = '6285751510398' //Nomor Bot
 global.nomorown = '6282158393348' //Nomor Owner
 global.namebot = 'KyGanteng BOT' //Nama Bot
-global.nameown = '𝓧𝓲𝓪𝓸 - 𝓨𝓪𝓷' // Nama Owner
+global.nameown = 'Manroe - BOT' // Nama Owner
 
 
 /*============== STAFF ==============*/
@@ -322,7 +322,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 857-3617-8354'
+global.phn = '+62 821-5839-3348'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
